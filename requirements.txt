@@ -1,0 +1,4 @@
+streamlit>=1.37.0
+scapy>=2.6.0
+pandas
+plotly>=5.18.0
