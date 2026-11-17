@@ -6,7 +6,7 @@ Built with **Python, Streamlit, Scapy, SQLite, Pandas, and Plotly**.
 
 ## 🚀 Live Demo
 
-🌐 **Streamlit App:** [https://your-netshield-app.streamlit.app/](https://your-netshield-app.streamlit.app/) *(Replace with your deployed Streamlit link)*
+🌐 **Streamlit App:** https://netshield-i9jjdpfqxfzinpje7qbqtf.streamlit.app/
 
 ## ✨ Key Features
 
